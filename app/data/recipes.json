@@ -1,0 +1,68 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+      "ingredients": [
+        "spaghetti",
+        "eggs",
+        "parmesan cheese",
+        "pancetta",
+        "black pepper"
+      ],
+      "how_to_prepare": "Cook spaghetti. Fry pancetta. Mix eggs and cheese. Combine all with pepper.",
+      "category": "Italian"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Curry",
+      "description": "Spicy and creamy chicken curry with coconut milk.",
+      "ingredients": [
+        "chicken",
+        "coconut milk",
+        "curry powder",
+        "onions",
+        "garlic"
+      ],
+      "how_to_prepare": "Cook chicken. Sauté onions and garlic. Add curry powder and coconut milk. Simmer.",
+      "category": "Indian"
+    },
+    {
+      "id": 3,
+      "name": "Caesar Salad",
+      "description": "Fresh salad with romaine lettuce, croutons, and Caesar dressing.",
+      "ingredients": [
+        "romaine lettuce",
+        "croutons",
+        "parmesan cheese",
+        "Caesar dressing",
+        "chicken"
+      ],
+      "how_to_prepare": "Chop lettuce. Grill chicken. Toss all ingredients with dressing.",
+      "category": "Salad"
+    },
+    {
+      "id": 4,
+      "name": "Beef Tacos",
+      "description": "Tasty beef tacos with fresh toppings.",
+      "ingredients": [
+        "ground beef",
+        "taco shells",
+        "lettuce",
+        "tomatoes",
+        "cheese"
+      ],
+      "how_to_prepare": "Cook beef. Fill taco shells with beef and toppings.",
+      "category": "Mexican"
+    },
+    {
+      "id": 5,
+      "name": "Chocolate Cake",
+      "description": "Rich and moist chocolate cake.",
+      "ingredients": ["flour", "sugar", "cocoa powder", "eggs", "butter"],
+      "how_to_prepare": "Mix ingredients. Bake in oven.",
+      "category": "Dessert"
+    }
+  ]
+}
